@@ -29,7 +29,7 @@ export default function Home() {
       </div>
       <div className="hero-art">
         <div className="sunburst">A LITTLE<br/>CULTURE<br/>WITH YOUR<br/>COFFEE.</div>
-        <div className="hero-photo"><img src="/images/hero-botanical.png" alt="Pink Jamu bottle with traditional ingredients" /></div>
+        <div className="hero-photo"><img src="/images/hero-botanical.jpg" alt="Pink Jamu bottle with traditional ingredients" /></div>
         <div className="checker checker-one"/><div className="checker checker-two"/>
         <span className="side-note">SMALL BATCH · BIG CHARACTER</span>
       </div>
@@ -40,7 +40,7 @@ export default function Home() {
     <section className="story section wrap" id="story">
       <div className="section-label">01 / WHAT'S THE JUICE?</div>
       <div className="story-grid"><div><h2>Same roots.<br/><em>Brighter days.</em></h2><p className="lead">Pink Jamu brings familiar Southeast Asian herbal traditions into contemporary city life — one bottle, one café table at a time.</p><p>Inspired by traditional Malay jamu recipes and made with familiar ingredients like kunyit and asam. No shortcuts, just good things from the earth.</p><a className="text-link" href="#brews">Get to know the brews <span>→</span></a></div>
-        <div className="story-visual"><img src="/images/kitchen-still.png" alt="Pink Jamu bottle surrounded by turmeric roots"/><div className="story-note"><span>NOT ANOTHER MATCHA.</span><span>NOT ANOTHER LATTE.</span><strong>A NEW LOCAL RITUAL.</strong></div><span className="doodle">✳</span></div></div>
+        <div className="story-visual"><img src="/images/hero-botanical.jpg" alt="Pink Jamu bottle surrounded by turmeric roots"/><div className="story-note"><span>NOT ANOTHER MATCHA.</span><span>NOT ANOTHER LATTE.</span><strong>A NEW LOCAL RITUAL.</strong></div><span className="doodle">✳</span></div></div>
       <div className="values"><div><span className="value-icon">✿</span><b>Traditional</b><p>Rooted in heritage, herbs & recipes.</p></div><div><span className="value-icon">☻</span><b>Vibrant</b><p>Bright, fun and full of life.</p></div><div><span className="value-icon">✦</span><b>Natural</b><p>Real ingredients, nothing to hide.</p></div><div><span className="value-icon">ϟ</span><b>Approachable</b><p>Easy to enjoy, made for all.</p></div></div>
     </section>
 
